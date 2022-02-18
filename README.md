@@ -11,18 +11,13 @@
   <li><a href="#live-03">Live 03 • A viagem de Chihiro</a></li>
   <li><a href="#live-02">Live 02 • Rocky's Burger</a></li>
   <li><a href="#live-01">Live 01 • Safe Travel</a></li>
-  <!-- <li><a href=""></a></li> -->
 </ul>
-
-<br />
 
 <a href="https://www.github.com/leovargasdev/lives-twitch/tree/master/live-06">
   <p align="center" id="live-06">
     <img src=".github/card-live-06.png" width="100%" />
   </p>
 </a>
-
-<br />
 
 <a href="https://www.github.com/leovargasdev/lives-twitch/tree/master/live-03">
   <p align="center" id="live-03">
