@@ -1,5 +1,5 @@
 <h1 align="center">
-  Twitch Live
+  Lives Twitch
 </h1>
 
 <h3 align="center">
@@ -25,15 +25,11 @@
   </p>
 </a>
 
-<br />
-
 <a href="https://www.github.com/leovargasdev/lives-twitch/tree/master/live-02">
   <p align="center" id="live-02">
     <img src=".github/card-live-02.png" width="100%" />
   </p>
 </a>
-
-<br />
 
 <a href="https://www.github.com/leovargasdev/lives-twitch/tree/master/live-01">
   <p align="center" id="live-01">
