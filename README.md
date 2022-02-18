@@ -16,7 +16,7 @@
 
 <br />
 
-<a href="https://www.github.com/leovargasdev/lives-twitch/live-06">
+<a href="https://www.github.com/leovargasdev/lives-twitch/tree/master/live-06">
   <p align="center" id="live-06">
     <img src=".github/card-live-06.png" width="100%" />
   </p>
@@ -24,7 +24,7 @@
 
 <br />
 
-<a href="https://www.github.com/leovargasdev/lives-twitch/live-03">
+<a href="https://www.github.com/leovargasdev/lives-twitch/tree/master/live-03">
   <p align="center" id="live-03">
     <img src=".github/card-live-03.png" width="100%" />
   </p>
@@ -32,7 +32,7 @@
 
 <br />
 
-<a href="https://www.github.com/leovargasdev/lives-twitch/live-02">
+<a href="https://www.github.com/leovargasdev/lives-twitch/tree/master/live-02">
   <p align="center" id="live-02">
     <img src=".github/card-live-02.png" width="100%" />
   </p>
@@ -40,7 +40,7 @@
 
 <br />
 
-<a href="https://www.github.com/leovargasdev/lives-twitch/live-01">
+<a href="https://www.github.com/leovargasdev/lives-twitch/tree/master/live-01">
   <p align="center" id="live-01">
     <img src=".github/card-live-01.png" width="100%" />
   </p>

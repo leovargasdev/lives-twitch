@@ -3,19 +3,30 @@
 </h1>
 
 <p align="center">
-  <a href="http://safe-travel.leonardovargas.dev/" target="_blank">
-    <b>Visualizar</b>
+  <a href="http://safe-travel.leonardovargas.dev/">
+    <b>🚀 Visualizar</b>
   </a>
   &nbsp;&nbsp;▪&nbsp;&nbsp;
-  <a href=""><b>Repositório</b></a>
+  <a href="https://github.com/leovargasdev/safe-travel">
+    <b>💻 Repositório</b>
+  </a>
   &nbsp;&nbsp;▪&nbsp;&nbsp;
-  <a href=""><b>Protótipo</b></a>
+  <a href="https://dribbble.com/shots/15119302-Travel-Landing-Page">
+    <b>🎨 Protótipo</b>
+  </a>
   &nbsp;&nbsp;▪&nbsp;&nbsp;
-  <a href=""><b>VOD's</b></a>
-  &nbsp;&nbsp;▪&nbsp;&nbsp;
-  <a href=""><b>Designer</b></a>
+  <a href="https://www.twitch.tv/collections/D2dIEXm0zBa-9w">
+    <b>🎥 VOD's</b>
+  </a>
 </p>
 
 <p align="center">
   <img src="./preview-live-01.png" width="100%" />
 </p>
+
+<h3 align="center">
+  Design by: 🙅‍♀️
+  <a href="https://dribbble.com/NevraBanuAslan">
+     Nevra Aslan
+  </a>
+</h3>
