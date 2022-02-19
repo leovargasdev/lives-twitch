@@ -19,6 +19,18 @@
   </p>
 </a>
 
+<a href="https://www.github.com/leovargasdev/lives-twitch/tree/master/live-05">
+  <p align="center" id="live-05">
+    <img src=".github/card-live-05.png" width="100%" />
+  </p>
+</a>
+
+<a href="https://www.github.com/leovargasdev/lives-twitch/tree/master/live-04">
+  <p align="center" id="live-04">
+    <img src=".github/card-live-04.png" width="100%" />
+  </p>
+</a>
+
 <a href="https://www.github.com/leovargasdev/lives-twitch/tree/master/live-03">
   <p align="center" id="live-03">
     <img src=".github/card-live-03.png" width="100%" />
