@@ -1,5 +1,5 @@
 <h1 align="center">
-  Live 03 • A viagem de Chihiro
+  Live 03 • A viagem de
 </h1>
 
 <p align="center">
@@ -25,7 +25,7 @@
 </p>
 
 <h3 align="center">
-  Design by: 🙅‍♀️ 🙅‍♂️
+  Design by: 🙅‍♂️
   <a href="https://www.iuricode.com/">
      Iuri Code - Condelândia
   </a>

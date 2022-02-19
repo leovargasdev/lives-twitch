@@ -25,7 +25,7 @@
 </p>
 
 <h3 align="center">
-  Design by: 🙅‍♀️ 🙅‍♂️
+  Design by: 🙅‍♂️
   <a href="https://dribbble.com/OrangePeelStudiosUK">
      Orange Peel Studios
   </a>
