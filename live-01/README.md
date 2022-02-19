@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="./preview-live-01.png" width="100%" />
+  <img src="./preview.png" width="100%" />
 </p>
 
 <h3 align="center">
