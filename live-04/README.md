@@ -1,17 +1,17 @@
 <h1 align="center">
-  Live 04 • Landing page Rachi
+  Live 04 • Landing page do Rachi
 </h1>
 
 <p align="center">
-  <a href="">
+  <a href="https://rachi.leonardovargas.dev/">
     <b>🚀 Visualizar</b>
   </a>
   &nbsp;&nbsp;▪&nbsp;&nbsp;
-  <a href="">
+  <a href="https://github.com/leovargasdev/rachi">
     <b>💻 Repositório</b>
   </a>
   &nbsp;&nbsp;▪&nbsp;&nbsp;
-  <a href="">
+  <a href="https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO?node-id=41733%3A754">
     <b>🎨 Protótipo</b>
   </a>
   &nbsp;&nbsp;▪&nbsp;&nbsp;

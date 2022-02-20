@@ -3,15 +3,15 @@
 </h1>
 
 <p align="center">
-  <a href="">
+  <a href="https://desafio-20-portfolio.leonardovargas.dev/">
     <b>🚀 Visualizar</b>
   </a>
   &nbsp;&nbsp;▪&nbsp;&nbsp;
-  <a href="">
+  <a href="https://github.com/leovargasdev/desafio-20-portfolio">
     <b>💻 Repositório</b>
   </a>
   &nbsp;&nbsp;▪&nbsp;&nbsp;
-  <a href="">
+  <a href="https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO?node-id=58198%3A756">
     <b>🎨 Protótipo</b>
   </a>
   &nbsp;&nbsp;▪&nbsp;&nbsp;
