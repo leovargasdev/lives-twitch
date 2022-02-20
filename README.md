@@ -7,11 +7,20 @@
 </h3>
 
 <ul>
+  <li><a href="#live-07">Live 07 • Landing page do Xbox series X</a></li>
   <li><a href="#live-06">Live 06 • Jogo SOS</a></li>
+  <li><a href="#live-05">Live 05 • Desafio codelândia portfólio</a></li>
+  <li><a href="#live-04">Live 04 • Landing page do Rachi</a></li>
   <li><a href="#live-03">Live 03 • A viagem de Chihiro</a></li>
   <li><a href="#live-02">Live 02 • Rocky's Burger</a></li>
   <li><a href="#live-01">Live 01 • Safe Travel</a></li>
 </ul>
+
+<a href="https://www.github.com/leovargasdev/lives-twitch/tree/master/live-07">
+  <p align="center" id="live-07">
+    <img src=".github/card-live-07.png" width="100%" />
+  </p>
+</a>
 
 <a href="https://www.github.com/leovargasdev/lives-twitch/tree/master/live-06">
   <p align="center" id="live-06">
