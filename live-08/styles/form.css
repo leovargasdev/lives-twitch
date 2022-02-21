@@ -1,0 +1,102 @@
+.radio-group {
+  display: flex;
+  column-gap: 1rem;
+}
+
+.radio {
+  display: flex;
+  align-items: center;
+  column-gap: 0.375rem;
+}
+
+.radio span {
+  width: 1.125rem;
+  height: 1.125rem;
+  border-radius: 50%;
+  background: #fff;
+  border: 1px solid #F0EAEB;
+}
+
+.radio label {
+  font-size: 0.875rem;
+  line-height: 1rem;
+  font-weight: 500;
+  color: #6C717B;
+}
+
+.radio span:hover {
+  cursor: pointer;
+}
+
+.radio span.active-radio {
+  border: 4px solid #ED845E;
+}
+
+.container-input {
+  display: flex;
+  align-items: center;
+  background: #fff;
+  border-radius: 0.75rem;
+  border: 1px solid #f3f0f0;
+  height: 3rem;
+
+  box-shadow: rgba(0, 0, 0, 0.04) 0px 3px 20px;
+}
+
+.input-icon {
+  display: flex;
+  width: 3rem;
+  height: inherit;
+}
+
+.input-icon svg {
+  width: 1.125rem;
+  height: auto;
+  margin: auto;
+}
+
+.container-input svg path {
+  fill: #F0EAEB;
+}
+
+.container-input input {
+  flex: 1;
+  border: 0;
+  color: #656D7B;
+  padding-left: 0.5rem;
+  background: transparent;
+  border-left: 1px solid #f3f0f0;
+  height: inherit;
+  outline: 0;
+}
+
+.container-input input::placeholder {
+  color: #656d7b80;
+}
+
+.active-input, .active-input input {
+  border-color: #ED845E;
+}
+
+.active-input svg path{
+  fill: #ED845E;
+}
+
+form button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  color: #FFEEDD;
+  font-size: 1rem;
+  font-weight: 700;
+  text-transform: uppercase;
+
+  border: 0;
+  width: 100%;
+  height: 3rem;
+  border-radius: 0.75rem;
+  background: #ED845E;
+
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+}

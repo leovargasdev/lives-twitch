@@ -1,0 +1,26 @@
+.content {
+  display: flex;
+  flex-direction: column;
+  
+  width: 100%;
+  max-width: 455px;
+  padding: 3rem;
+  border-radius: 1.5rem 0 0 1.5rem;
+}
+
+.logo {
+  width: 150px;
+  height: auto;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  row-gap: 1.75rem;
+  margin: auto 0;
+}
+
+h1 {
+  color: #374860;
+  font-size: 1.625rem;
+}
