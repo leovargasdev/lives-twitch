@@ -3,11 +3,11 @@
 </h1>
 
 <p align="center">
-  <a href="zen-aryabhata-be279c.netlify.app">
+  <a href="https://live-08.leonardovargas.dev/">
     <b>🚀 Visualizar</b>
   </a>
   &nbsp;&nbsp;▪&nbsp;&nbsp;
-  <a href="https://www.github.com/leovargasdev/lives-twitch/tree/master/live-08">
+  <a href="">
     <b>💻 Repositório</b>
   </a>
   &nbsp;&nbsp;▪&nbsp;&nbsp;
