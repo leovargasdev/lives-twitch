@@ -39,6 +39,14 @@ function setValueSelect(value, selectId) {
 }
 
 function handleFormattedDate() {
-  var x = document.getElementById("field-date");
-  x.value = x.value.toUpperCase();
+  let fieldDate = document.getElementById("field-date");
+  // Deixa somente números
+  const value = fieldDate.value.replace(/\D/g, '');
+
+  if (value.length < 4) {
+    console.log('entrou')
+    fieldDate.value = value.replace(/(\d{2})(\d{1,2})/g, '$1/$2')
+  } else {
+    fieldDate.value = value.slice(0, 7).replace(/(\d{2})(\d{2})(\d{1,4})/g, '$1/$2/$3')
+  }
 }
