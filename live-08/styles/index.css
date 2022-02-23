@@ -29,3 +29,22 @@ body {
   display: flex;
   box-shadow: rgba(0, 0, 0, 0.09) 0px 3px 12px;
 }
+
+@media(max-width: 1232px) {
+  body {
+    padding: 0 2rem;
+  }
+}
+
+@media(max-width: 768px) {
+  .container {
+    flex-direction: column-reverse;
+    height: 80vh;
+  }
+}
+
+@media(max-width: 650px) {
+  .container {
+    height: 85vh;
+  }
+}

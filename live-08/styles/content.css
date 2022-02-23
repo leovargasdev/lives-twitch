@@ -24,3 +24,46 @@ h1 {
   color: #374860;
   font-size: 1.625rem;
 }
+
+@media(max-width: 768px) {
+  .content {
+    max-width: 100%;
+    padding: 2rem;
+  }
+
+  form {
+    display: grid;
+    gap: 2rem;
+    grid-template-columns: 1fr 1fr;
+  }
+
+  h1 {
+    margin-top: 4rem;
+    grid-column: 1 / 3;
+  }
+
+  form button {
+    grid-column: 1 / 3;
+  }
+}
+
+@media(max-width: 650px) {
+  .content {
+    padding: 1rem;
+  }
+
+  form {
+    display: flex;
+    flex-direction: column;
+    row-gap: 1.25rem;
+  }
+
+  h1 {
+    font-size: 1.25rem;
+    margin-top: 2rem;
+  }
+
+  form button {
+    margin-top: 1rem;
+  }
+}
