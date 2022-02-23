@@ -32,11 +32,11 @@
   border: 4px solid #ED845E;
 }
 
-.container-input {
+.container-field {
   display: flex;
   align-items: center;
   background: #fff;
-  border-radius: 0.75rem;
+  border-radius: 0.75rem 0.75rem 0 0.75rem;
   border: 1px solid #f3f0f0;
   height: 3rem;
 
@@ -55,11 +55,11 @@
   margin: auto;
 }
 
-.container-input svg path {
+.container-field svg path {
   fill: #F0EAEB;
 }
 
-.container-input input {
+.container-field input {
   flex: 1;
   border: 0;
   color: #656D7B;
@@ -70,7 +70,7 @@
   outline: 0;
 }
 
-.container-input input::placeholder {
+.container-field input::placeholder {
   color: #656d7b80;
 }
 

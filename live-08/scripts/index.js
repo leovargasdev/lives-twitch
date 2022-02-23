@@ -19,3 +19,26 @@ function handleOnFocus(inputName) {
   console.log('handleOnFocus(inputName)')
   document.getElementById(inputName).classList.add("active-input");
 }
+
+function handleToggleSelect(selectId) {
+  const selectFlyClass = document.getElementById(selectId)
+  const isClassOnSelect = selectFlyClass.classList.length !== 1
+
+  if(isClassOnSelect) {
+    selectFlyClass.classList.remove("select-active");
+  } else {
+    selectFlyClass.classList.add("select-active");
+  }
+}
+
+function setValueSelect(value, selectId) {
+  const currentValue = document.querySelector(`#${selectId} strong span`)
+  currentValue.innerHTML = value
+  document.getElementById(selectId).classList.remove("select-active");
+
+}
+
+function handleFormattedDate() {
+  var x = document.getElementById("field-date");
+  x.value = x.value.toUpperCase();
+}

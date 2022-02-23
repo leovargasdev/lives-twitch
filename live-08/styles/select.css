@@ -1,0 +1,73 @@
+.field-select {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+
+  position: relative;
+
+  flex: 1;
+  padding: 0 0.5rem;
+  border-left: 1px solid #f3f0f0;
+  height: inherit;
+  outline: 0;
+}
+
+.field-select strong {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: inherit;
+
+  font-weight: 400;
+  font-size: 0.875rem;
+  color: #656d7b80;
+}
+
+.field-select svg {
+  width: 0.75rem;
+  height: auto;
+  transition: all 0.4s;
+}
+
+.field-select svg path {
+  fill: #656d7b80;
+}
+
+.field-select ul {
+  position: absolute;
+  top: 3rem;
+  left: 0;
+
+  display: flex;
+  flex-direction: column;
+  
+  width: 100%;
+  max-height: 0;
+  overflow: hidden;
+  list-style: none;
+  border-radius: 0 0 0.625rem 0.625rem;
+  border: 1px solid #f3f0f0;
+  border-top: 0;
+  background: rgba(255, 255, 255, 0.98);
+  
+  transition: all 0.4s;
+}
+
+.field-select ul li {
+  padding: 0.5rem;
+  font-size: 0.82rem;
+  color: #656d7b80;
+}
+
+.field-select ul li:hover {
+  background: rgba(101, 109, 123, 0.1);
+}
+
+.select-active ul {
+  max-height: 400px;
+  z-index: 5;
+}
+
+.select-active svg {
+  transform: rotate(-180deg);
+}
