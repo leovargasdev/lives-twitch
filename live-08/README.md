@@ -35,5 +35,5 @@
 
 - [x] Criar estrutura do página
 - [x] Efeito de focus input
-- [ ] Componente de `Select`
-- [ ] Componente de `Calendary`
+- [x] Componente de `Select`
+- [x] Criar um Regex no input `Calendary`
