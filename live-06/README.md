@@ -26,7 +26,7 @@
 
 <h3 align="center">
   Design by: 🙅‍♀️
-  <a href="">
+  <a href="https://dribbble.com/Alicilinia">
      Alina Zaripova
   </a>
 </h3>
