@@ -7,6 +7,8 @@
 </h3>
 
 <ul>
+  <li><a href="#live-09">Live 09 • UI Clone - Spotify</a></li>
+  <li><a href="#live-08">Live 08 • Formulário do site Travellz</a></li>
   <li><a href="#live-07">Live 07 • Landing page do Xbox series X</a></li>
   <li><a href="#live-06">Live 06 • Jogo SOS</a></li>
   <li><a href="#live-05">Live 05 • Desafio codelândia portfólio</a></li>
@@ -15,6 +17,18 @@
   <li><a href="#live-02">Live 02 • Rocky's Burger</a></li>
   <li><a href="#live-01">Live 01 • Safe Travel</a></li>
 </ul>
+
+<a href="https://www.github.com/leovargasdev/lives-twitch/tree/master/live-09">
+  <p align="center" id="live-09">
+    <img src=".github/card-live-09.png" width="100%" />
+  </p>
+</a>
+
+<a href="https://www.github.com/leovargasdev/lives-twitch/tree/master/live-08">
+  <p align="center" id="live-08">
+    <img src=".github/card-live-08.png" width="100%" />
+  </p>
+</a>
 
 <a href="https://www.github.com/leovargasdev/lives-twitch/tree/master/live-07">
   <p align="center" id="live-07">
