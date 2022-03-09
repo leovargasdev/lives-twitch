@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@600&family=Fraunces:wght@700;900&display=swap');
+
+@import url('./section-banner-hero.css');
+@import url('./section-information.css');
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Barlow', sans-serif;
+  /* font-family: 'Fraunces', serif; */
+}
+
+p, li, span {
+  font-weight: 600;
+}
+
+button, h1, h2, h3, h4, h5, h6, strong {
+  font-weight: 700;
+  font-family: var(--font-fraunces);
+}
+
+a, button {
+  cursor: pointer;
+}
+
+:root {
+  /* primary */
+  --color-red: hsl(7, 99%, 70%);
+  --color-yellow: hsl(51, 100%, 49%);
+  --color-dark-blue: hsl(198, 62%, 26%);
+  --color-dark-moderate-cyan: hsl(168, 34%, 41%);
+  --color-dark-desaturated-cyauratedn: hsl(167, 40%, 24%);
+
+  /* neutral */
+  --color-dark-desaturated-blue: hsl(212, 27%, 19%);
+  --color-dark-grayish-blue: hsl(213, 9%, 39%);
+  --color-dark-grayish-blue: hsl(232, 10%, 55%);
+  --color-grayish-blue: hsl(210, 4%, 67%);
+  --color-white: hsl(0, 0%, 100%);
+
+  --font-fraunces: 'Fraunces', serif;
+}
+
+
+
+
