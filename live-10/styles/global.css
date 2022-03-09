@@ -2,6 +2,7 @@
 
 @import url('./section-banner-hero.css');
 @import url('./section-information.css');
+@import url('./components/grid-item.css');
 
 * {
   padding: 0;
