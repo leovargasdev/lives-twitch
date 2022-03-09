@@ -2,30 +2,14 @@
 
 @import url('./section-banner-hero.css');
 @import url('./section-information.css');
+@import url('./section-quotes.css');
+@import url('./section-galleries.css');
 @import url('./components/grid-item.css');
 
 * {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-}
-
-body {
-  font-family: 'Barlow', sans-serif;
-  /* font-family: 'Fraunces', serif; */
-}
-
-p, li, span {
-  font-weight: 600;
-}
-
-button, h1, h2, h3, h4, h5, h6, strong {
-  font-weight: 700;
-  font-family: var(--font-fraunces);
-}
-
-a, button {
-  cursor: pointer;
 }
 
 :root {
@@ -38,7 +22,7 @@ a, button {
 
   /* neutral */
   --color-dark-desaturated-blue: hsl(212, 27%, 19%);
-  --color-dark-grayish-blue: hsl(213, 9%, 39%);
+  --color-very-dark-grayish-blue: hsl(213, 9%, 39%);
   --color-dark-grayish-blue: hsl(232, 10%, 55%);
   --color-grayish-blue: hsl(210, 4%, 67%);
   --color-white: hsl(0, 0%, 100%);
@@ -46,6 +30,66 @@ a, button {
   --font-fraunces: 'Fraunces', serif;
 }
 
+body {
+  font-family: 'Barlow', sans-serif;
+}
 
+p, li, span, a {
+  font-weight: 600;
+}
 
+button, h1, h2, h3, h4, h5, h6, strong {
+  font-weight: 700;
+  font-family: var(--font-fraunces);
+}
 
+a, button {
+  cursor: pointer;
+}
+
+footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  padding: 80px 0;
+  background: #90D4C5;
+}
+
+footer svg path{
+  fill: var(--color-dark-desaturated-cyauratedn);
+}
+
+footer ul {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+footer .navigation {
+  column-gap: 48px;
+  margin: 32px 0 64px;
+}
+
+footer .navigation li {
+  font-weight: 700;
+  color: var(--color-dark-blue);
+  font-size: 1.125rem;
+  line-height: 2rem;
+}
+
+footer .social-medias {
+  column-gap: 20px;
+}
+
+footer .social-medias img {
+  width: 20px;
+  height: auto;
+
+  transition: 0.4s all;
+}
+
+footer .social-medias li:hover img {
+  filter: brightness(0.6);
+}

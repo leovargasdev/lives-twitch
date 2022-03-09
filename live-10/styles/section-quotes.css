@@ -1,0 +1,58 @@
+.section-quotes {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  row-gap: 70px;
+
+  padding: 140px 0;
+  background: #FFFBF8;
+}
+
+.section-quotes h2 {
+  font-size: 1.5rem;
+  line-height: 2rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--color-grayish-blue);
+}
+
+.quotes {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  column-gap: 32px;
+
+  width: 100%;
+  max-width: 1100px;
+}
+
+.quote {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.quote img {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+}
+
+.quote p {
+  font-size: 1.125rem;
+  line-height: 2rem;
+  text-align: center;
+  color: var(--color-very-dark-grayish-blue);
+  margin: 64px 0;
+}
+
+.quote strong {
+  font-size: 1.25rem;
+  color: var(--color-dark-desaturated-blue);
+  margin-bottom: 8px;
+}
+
+.quote span {
+  font-size: 0.875rem;
+  color: var(--color-grayish-blue);
+}
+
