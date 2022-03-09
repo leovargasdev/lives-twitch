@@ -1,5 +1,5 @@
 <h1 align="center">
-  Live 03 • A viagem de
+  Live 03 • A viagem de Chihiro
 </h1>
 
 <p align="center">
