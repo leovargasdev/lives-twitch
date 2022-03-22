@@ -54,3 +54,14 @@
     height: 160px;
   }
 }
+
+@media (max-width: 450px) {
+  .section-banner-hero h1 {
+    font-size: 2.5rem;
+    line-height: 4rem;
+  }
+
+  .section-banner-hero {
+    padding: 40px 20px 0;
+  }
+}

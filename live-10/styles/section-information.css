@@ -6,3 +6,14 @@
   display: grid;
   grid-template-columns: 1fr 1fr;
 }
+
+@media(max-width: 768px) {
+  .section-information ul {
+    grid-template-columns: 1fr;
+  }
+
+  .section-information ul li:nth-child(2) {
+    grid-row-start: 4;
+    /* order: 1; */
+  }
+}

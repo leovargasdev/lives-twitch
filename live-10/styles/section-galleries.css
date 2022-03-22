@@ -5,10 +5,20 @@
   height: 550px;
 }
 
+@media(max-width: 768px) {
+  .section-galleries {
+    grid-template-columns: repeat(2, 1fr);
+    height: 700px;
+  }
+}
+
+.section-galleries div {
+  overflow: hidden;
+}
+
 .section-galleries div, .section-galleries img {
   width: 100%;
   height: 100%;
-  overflow: hidden;
 }
 
 .section-galleries img {

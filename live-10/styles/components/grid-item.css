@@ -115,3 +115,26 @@
 .grid-item img:hover {
   transform: scale(1.05);
 }
+
+@media(max-width: 768px) {
+  .grid-item {
+    height: 450px;
+  }
+
+  .grid-item div {
+    row-gap: 24px;
+    
+    padding: 32px;
+    max-width: 100%;
+  }
+
+  .grid-item h2 { 
+    font-size: 2rem;
+    line-height: 2.5rem;
+  }
+
+  .grid-item p { 
+    font-size: 1rem;
+    line-height: 1.5rem;
+  }
+}

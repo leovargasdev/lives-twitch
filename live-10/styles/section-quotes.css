@@ -56,3 +56,27 @@
   color: var(--color-grayish-blue);
 }
 
+
+@media(max-width: 768px) {
+  .section-quotes {
+    padding: 80px 0;
+  }
+
+  .quotes {
+    display: flex;
+    flex-direction: column;
+    row-gap: 64px;
+    padding: 0 40px;
+  }
+
+  .quote p {
+    font-size: 1rem;
+    line-height: 1.625rem;
+    margin: 20px 0;
+  }
+
+  .quote strong {
+    font-size: 1.125rem;
+    margin-bottom: 6px;
+  }
+}

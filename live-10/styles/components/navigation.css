@@ -140,3 +140,10 @@
     display: flex;
   }
 }
+
+@media(max-width: 768px) {
+  #navigation {
+    top: 38px;
+    right: 2%;
+  }
+}
