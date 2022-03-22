@@ -8,6 +8,7 @@
   
   <title>Frontend Mentor | Sunnyside agency landing page</title>
   <link rel="stylesheet" href="styles/global.css">
+  <script src="./index.js"></script>
 
 </head>
 <body>
@@ -15,13 +16,18 @@
     <header>
       <img src="./images/logo.svg" alt="Logo sunnyside">
       <nav>
-        <ul>
+        <ul id="navigation">
           <li>About</li>
           <li>Services</li>
           <li>Projects</li>
         </ul>
       </nav>
       <button type="button" class="button-contact">Contact</button>
+      <button type="button" id="button-mobile" onclick="toggleMenu()">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
     </header>
 
     <h1>We are creatives</h1>

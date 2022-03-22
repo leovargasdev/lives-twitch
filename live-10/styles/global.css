@@ -5,6 +5,7 @@
 @import url('./section-quotes.css');
 @import url('./section-galleries.css');
 @import url('./components/grid-item.css');
+@import url('./components/navigation.css');
 
 * {
   padding: 0;
