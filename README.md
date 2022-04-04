@@ -7,6 +7,7 @@
 </h3>
 
 <ul>
+  <li><a href="#live-11">Live 11 • Soccer Player</a></li>
   <li><a href="#live-10">Live 10 • Landing page Sunnyside</a></li>
   <li><a href="#live-09">Live 09 • UI Clone - Spotify</a></li>
   <li><a href="#live-08">Live 08 • Formulário do site Travellz</a></li>
@@ -18,6 +19,12 @@
   <li><a href="#live-02">Live 02 • Rocky's Burger</a></li>
   <li><a href="#live-01">Live 01 • Safe Travel</a></li>
 </ul>
+
+<a href="https://www.github.com/leovargasdev/lives-twitch/tree/master/live-11">
+  <p align="center" id="live-11">
+    <img src=".github/card-live-11.png" width="100%" />
+  </p>
+</a>
 
 <a href="https://www.github.com/leovargasdev/lives-twitch/tree/master/live-10">
   <p align="center" id="live-10">
