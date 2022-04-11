@@ -26,7 +26,11 @@
 
 <h3 align="center">
   Design by: 🙅‍♀️
-  <a href="https://dribbble.com/subtl">
-     Subtl
+  <a href="https://www.behance.net/erikrodrigues">
+     Erik Rodrigues
+  </a>
+  ,
+  <a href="https://www.linkedin.com/in/gilberto-insanydesign/">
+     Gilberto Prado
   </a>
 </h3>
