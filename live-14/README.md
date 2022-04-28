@@ -16,7 +16,7 @@
   </a>
   &nbsp;&nbsp;▪&nbsp;&nbsp;
   <a href="">
-    <b>🎥 Plalist no youtube</b>
+    <b>🎥 Playlist no Youtube</b>
   </a>
 </p>
 
