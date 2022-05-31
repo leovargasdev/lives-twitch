@@ -26,7 +26,5 @@
 
 <h3 align="center">
   Design by: 🙅‍♂️
-  <a href="https://www.iuricode.com/" target="_blank">
-     Iuri Code - Condelândia
-  </a>
+  [Iuri Code - Condelândia](https://www.iuricode.com/){:target="_blank" rel="noopener"}
 </h3>
