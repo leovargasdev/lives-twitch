@@ -7,10 +7,12 @@
 </h3>
 
 <ul>
-  <li><a href="#live-11">Live 15 • Black Glasses</a></li>
-  <li><a href="#live-11">Live 14 • Agência digital Enver</a></li>
-  <li><a href="#live-11">Live 13 • Site da Blizzard</a></li>
-  <li><a href="#live-11">Live 12 • Airpods</a></li>
+  <li><a href="#live-17">Live 17 • UI Clone - Disney Plus</a></li>
+  <li><a href="#live-16">Live 16 • Music Legends</a></li>
+  <li><a href="#live-15">Live 15 • Black Glasses</a></li>
+  <li><a href="#live-14">Live 14 • Agência digital Enver</a></li>
+  <li><a href="#live-13">Live 13 • Site da Blizzard</a></li>
+  <li><a href="#live-12">Live 12 • Airpods</a></li>
   <li><a href="#live-11">Live 11 • Soccer Player</a></li>
   <li><a href="#live-10">Live 10 • Landing page Sunnyside</a></li>
   <li><a href="#live-09">Live 09 • UI Clone - Spotify</a></li>
@@ -23,6 +25,18 @@
   <li><a href="#live-02">Live 02 • Rocky's Burger</a></li>
   <li><a href="#live-01">Live 01 • Safe Travel</a></li>
 </ul>
+
+<a href="https://www.github.com/leovargasdev/lives-twitch/tree/master/live-17">
+  <p align="center" id="live-17">
+    <img src=".github/card-live-17.png" width="100%" />
+  </p>
+</a>
+
+<a href="https://www.github.com/leovargasdev/lives-twitch/tree/master/live-16">
+  <p align="center" id="live-16">
+    <img src=".github/card-live-16.png" width="100%" />
+  </p>
+</a>
 
 <a href="https://www.github.com/leovargasdev/lives-twitch/tree/master/live-15">
   <p align="center" id="live-15">
