@@ -7,6 +7,8 @@
 </h3>
 
 <ul>
+  <li><a href="#live-19">Live 19 • Formulário Falconi</a></li>
+  <li><a href="#live-18">Live 18 • UI Clone - Google</a></li>
   <li><a href="#live-17">Live 17 • UI Clone - Disney Plus</a></li>
   <li><a href="#live-16">Live 16 • Music Legends</a></li>
   <li><a href="#live-15">Live 15 • Black Glasses</a></li>
@@ -25,6 +27,18 @@
   <li><a href="#live-02">Live 02 • Rocky's Burger</a></li>
   <li><a href="#live-01">Live 01 • Safe Travel</a></li>
 </ul>
+
+<a href="https://www.github.com/leovargasdev/lives-twitch/tree/master/live-19">
+  <p align="center" id="live-19">
+    <img src=".github/card-live-19.png" width="100%" />
+  </p>
+</a>
+
+<a href="https://www.github.com/leovargasdev/lives-twitch/tree/master/live-18">
+  <p align="center" id="live-18">
+    <img src=".github/card-live-18.png" width="100%" />
+  </p>
+</a>
 
 <a href="https://www.github.com/leovargasdev/lives-twitch/tree/master/live-17">
   <p align="center" id="live-17">
